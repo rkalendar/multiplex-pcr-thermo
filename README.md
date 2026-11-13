@@ -110,3 +110,7 @@ For primer and panel design use [FastPCR](https://primerdigital.com/tools/fastpc
 ## Contact
 
 Ruslan Kalendar — ruslan.kalendar@helsinki.fi
+
+## License
+
+GNU General Public License v3.0, see [LICENSE](LICENSE).
